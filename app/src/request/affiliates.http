@@ -1,0 +1,3 @@
+GET http://localhost:1337/api/affiliates/near?latitude=0&longitude=0&distance=1
+Content-Type: application/json
+###
